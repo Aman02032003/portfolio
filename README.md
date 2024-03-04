@@ -1,1 +1,1 @@
-This Portfolio is made on Kotlin language.
+This Portfolio is made in Kotlin Programming language.
